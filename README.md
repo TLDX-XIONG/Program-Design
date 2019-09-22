@@ -4,13 +4,14 @@
 * ##### 项目运行环境为VS2010，使用语言为C语言。
 ## 文件结构
 ```
-│───README.md                         帮助文件
-│───README.pdf                        帮助文件(PDF格式)
-│───ATM仿真系统.c                      source code
-│───account messages.txt              账户信息
-│───account messages(加密前).txt       账户信息(加密前)文件
-│───account Transaction.txt           账户流水信息文件
-└───程序设计报告.doc
+│─── README.md                                 帮助文件
+│─── README.pdf                                帮助文件(PDF格式)
+│─── 程序设计                                   
+│    │─── ATM仿真系统.c                         source code
+│    │─── account messages.txt                 账户信息
+│    │─── account messages(加密前).txt         账户信息(加密前)文件
+│    │─── account Transaction.txt              账户流水信息文件
+│    └─── 程序设计报告.doc
 
 ```
 ##### 说明
