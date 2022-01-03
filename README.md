@@ -29,9 +29,4 @@
     │   │── 修改密码 
     │   └── 返回上一级
     └── 用户退出
-```
-## 程序设计报告
-最后附上一份程序设计报告
-<hr>  
-
-###### <center>&copy;2019 TLDX-XIONG,All rights reserved<center>
+```  
