@@ -5,7 +5,6 @@
 ## 文件结构
 ```
 │─── README.md                                 帮助文件
-│─── README.pdf                                帮助文件(PDF格式)
 │─── 程序设计                                   
 │    │─── ATM仿真系统.c                         source code
 │    │─── account messages.txt                 账户信息
